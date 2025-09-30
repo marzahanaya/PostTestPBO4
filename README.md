@@ -23,14 +23,28 @@ Penerapan Polymorphism ditunjukkan melalui Overriding, yaitu method getTipe() pa
 ### Output Program
 <img width="654" height="214" alt="Screenshot 2025-09-30 131514" src="https://github.com/user-attachments/assets/8eb61296-78b7-4066-9e35-9eeb6532c4a7" />
 
+Berikut ini adalah menu utama program pada saat program pertama kali dijalankan.
+
 <img width="794" height="360" alt="Screenshot 2025-09-30 153832" src="https://github.com/user-attachments/assets/659784d9-b464-4fe8-b20e-4fb4fe002be9" />
+
+Pada menu nomor 1, pengguna dapat menambahkan kursus yang diperlukan dengan menginput id kursus, nama kursus, nama pengajar, serta durasi kursus. Setelah berhasil menambahkan kursus, program akan memberi pesan bahwa kursus telah berhasil ditambahkan.
 
 <img width="990" height="333" alt="Screenshot 2025-09-30 131601" src="https://github.com/user-attachments/assets/4cb67c9e-c525-4af2-a1d4-a0daed9fa2a2" />
 
+Selanjutnya, pengguna dapat melihat daftar kursus yang ada dengan memilih menu nomor 2. Program akan menampilkan daftar kursus yang tersedia.b
+
 <img width="814" height="351" alt="Screenshot 2025-09-30 154002" src="https://github.com/user-attachments/assets/4a3431b8-0c86-4df0-8cb6-3015f4ed895e" />
+
+Jika pengguna memilih mengubah kursus, sistem akan meminta data baru. Pengguna boleh mengosongkan input tertentu jika tidak ingin diubah. Setelah data diperbarui, program menampilkan pesan bahwa perubahan berhasil dilakukan. Pada opsi hapus kursus, apabila ID sesuai ditemukan maka kursus akan dihapus dan sistem memberi notifikasi berhasil. Sebaliknya, jika ID tidak ada, program menampilkan pesan bahwa kursus tidak ditemukan.
 
 <img width="619" height="280" alt="Screenshot 2025-09-30 154042" src="https://github.com/user-attachments/assets/591bfb08-24ca-45eb-a50d-50b1b1783266" />
 
+Lalu, pada menu nomor 4 pengguna dapat menghapus kursus yang mungkin tidak diperlukan lagi dengan menginput id kursus yang ingin dihapus. Setelah itu, saya kembali memilih menu nomor 2 untuk memastikan bahwa kursus yang ingin saya hapus telah berhasil terhapus.
+
 <img width="733" height="310" alt="Screenshot 2025-09-30 154054" src="https://github.com/user-attachments/assets/c32358c5-a2fe-4ba2-b62f-a358db9cf56b" />
 
+Selanjutnya, pengguna dapat mencari kursus yang dicari dengan memilih menu nomor 5. Program akan meminta memasukkan kata kunci kursus yang dicari. Disini saya mencari kursus dengan menggunakan nama pengajar dan nama kursus sebagai kata kunci, setelah itu program akan menampilkan kursus yang berkaitan dengan kata kunci yang pengguna masukkan tadi.
+
 <img width="1128" height="564" alt="Screenshot 2025-09-30 154239" src="https://github.com/user-attachments/assets/ca540c1d-7853-4cb3-a1d2-3122b452f213" />
+
+Terakhir, jika pengguna memilih menu nomor 5, pengguna akan keluar dari program dan muncul pesan bahwa pengguna telah keluar dari program.
