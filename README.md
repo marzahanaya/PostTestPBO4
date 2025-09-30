@@ -31,7 +31,7 @@ Pada menu nomor 1, pengguna dapat menambahkan kursus yang diperlukan dengan meng
 
 <img width="990" height="333" alt="Screenshot 2025-09-30 131601" src="https://github.com/user-attachments/assets/4cb67c9e-c525-4af2-a1d4-a0daed9fa2a2" />
 
-Selanjutnya, pengguna dapat melihat daftar kursus yang ada dengan memilih menu nomor 2. Program akan menampilkan daftar kursus yang tersedia.b
+Selanjutnya, pengguna dapat melihat daftar kursus yang ada dengan memilih menu nomor 2. Program akan menampilkan daftar kursus yang tersedia.
 
 <img width="814" height="351" alt="Screenshot 2025-09-30 154002" src="https://github.com/user-attachments/assets/4a3431b8-0c86-4df0-8cb6-3015f4ed895e" />
 
