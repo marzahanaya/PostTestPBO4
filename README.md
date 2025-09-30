@@ -41,7 +41,7 @@ Jika pengguna memilih mengubah kursus, sistem akan meminta data baru. Pengguna b
 
 Lalu, pada menu nomor 4 pengguna dapat menghapus kursus yang mungkin tidak diperlukan lagi dengan menginput id kursus yang ingin dihapus. Setelah itu, saya kembali memilih menu nomor 2 untuk memastikan bahwa kursus yang ingin saya hapus telah berhasil terhapus.
 
-<img width="733" height="310" alt="Screenshot 2025-09-30 154054" src="https://github.com/user-attachments/assets/c32358c5-a2fe-4ba2-b62f-a358db9cf56b" />
+<img width="1128" height="564" alt="Screenshot 2025-09-30 154239" src="https://github.com/user-attachments/assets/14503152-2042-4667-a9b1-20669d7dfca3" />
 
 Selanjutnya, pengguna dapat mencari kursus yang dicari dengan memilih menu nomor 5. Program akan meminta memasukkan kata kunci kursus yang dicari. Disini saya mencari kursus dengan menggunakan nama pengajar dan nama kursus sebagai kata kunci, setelah itu program akan menampilkan kursus yang berkaitan dengan kata kunci yang pengguna masukkan tadi.
 
