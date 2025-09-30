@@ -45,6 +45,6 @@ Lalu, pada menu nomor 4 pengguna dapat menghapus kursus yang mungkin tidak diper
 
 Selanjutnya, pengguna dapat mencari kursus yang dicari dengan memilih menu nomor 5. Program akan meminta memasukkan kata kunci kursus yang dicari. Disini saya mencari kursus dengan menggunakan nama pengajar dan nama kursus sebagai kata kunci, setelah itu program akan menampilkan kursus yang berkaitan dengan kata kunci yang pengguna masukkan tadi.
 
-<img width="1128" height="564" alt="Screenshot 2025-09-30 154239" src="https://github.com/user-attachments/assets/ca540c1d-7853-4cb3-a1d2-3122b452f213" />
+<img width="753" height="252" alt="Screenshot 2025-09-30 210035" src="https://github.com/user-attachments/assets/a29f4a1d-7665-4f6d-8463-21bdfa341124" />
 
 Terakhir, jika pengguna memilih menu nomor 5, pengguna akan keluar dari program dan muncul pesan bahwa pengguna telah keluar dari program.
