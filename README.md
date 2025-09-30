@@ -12,4 +12,12 @@ Program Sistem Manajemen Kursus Online ini dibuat untuk membantu pengguna dalam 
 
 <img width="298" height="271" alt="Screenshot 2025-09-30 093551" src="https://github.com/user-attachments/assets/8f6d68fe-bf39-4979-8f4a-c932c9e8ec7a" />
 
+### Penerapan Abstraction
+
+Penerapan Abstraction dalam program ini terdapat pada abstract class ModelKursus yang memiliki method abstract getTipe() dan diimplementasikan secara berbeda pada class KursusOnline dan KursusOffline. Selain itu, program juga menggunakan interface Evaluasi yang diimplementasikan oleh class KursusOnline untuk memberikan nilai serta membuat laporan hasil.
+
+### Penerapan Polymorphism
+
+Penerapan Polymorphism ditunjukkan melalui Overriding, yaitu method getTipe() pada KursusOnline dan KursusOffline yang menyesuaikan output sesuai jenis kursusnya, serta implementasi method dari interface Evaluasi. Sedangkan Overloading diterapkan pada class Siswa dengan adanya method setter setNama() yang dapat digunakan untuk memperbarui nilai atribut dengan fleksibilitas parameter.
+
 ### Output Program
