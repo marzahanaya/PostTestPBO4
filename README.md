@@ -21,3 +21,18 @@ Penerapan Abstraction dalam program ini terdapat pada abstract class ModelKursus
 Penerapan Polymorphism ditunjukkan melalui Overriding, yaitu method getTipe() pada KursusOnline dan KursusOffline yang menyesuaikan output sesuai jenis kursusnya, serta implementasi method dari interface Evaluasi. Sedangkan Overloading diterapkan pada class Siswa dengan adanya method setter setNama() yang dapat digunakan untuk memperbarui nilai atribut dengan fleksibilitas parameter.
 
 ### Output Program
+<img width="654" height="214" alt="Screenshot 2025-09-30 131514" src="https://github.com/user-attachments/assets/8eb61296-78b7-4066-9e35-9eeb6532c4a7" />
+
+<img width="716" height="349" alt="Screenshot 2025-09-30 131544" src="https://github.com/user-attachments/assets/be482b44-116b-4502-85e1-fde6bf3e4691" />
+
+<img width="990" height="333" alt="Screenshot 2025-09-30 131601" src="https://github.com/user-attachments/assets/4cb67c9e-c525-4af2-a1d4-a0daed9fa2a2" />
+
+<img width="794" height="360" alt="Screenshot 2025-09-30 153832" src="https://github.com/user-attachments/assets/659784d9-b464-4fe8-b20e-4fb4fe002be9" />
+
+<img width="814" height="351" alt="Screenshot 2025-09-30 154002" src="https://github.com/user-attachments/assets/4a3431b8-0c86-4df0-8cb6-3015f4ed895e" />
+
+<img width="619" height="280" alt="Screenshot 2025-09-30 154042" src="https://github.com/user-attachments/assets/591bfb08-24ca-45eb-a50d-50b1b1783266" />
+
+<img width="733" height="310" alt="Screenshot 2025-09-30 154054" src="https://github.com/user-attachments/assets/c32358c5-a2fe-4ba2-b62f-a358db9cf56b" />
+
+<img width="1128" height="564" alt="Screenshot 2025-09-30 154239" src="https://github.com/user-attachments/assets/ca540c1d-7853-4cb3-a1d2-3122b452f213" />
